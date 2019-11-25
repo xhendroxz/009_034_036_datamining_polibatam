@@ -3,5 +3,5 @@
 <ol>
 <li>3311811009/Hendro</li>
 <li>3311811034/Husein Muhammad</li>
-<li>3311811036/Fery Afrianto</li>
+<li>3311811036/Fery Afriyanto</li>
 </ol>
